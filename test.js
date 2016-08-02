@@ -1,3 +1,3 @@
-$(document).ready(function() {
-    $('div').fadeIn('slow');
+$(document).ready(function(){
+    $('#menu').accordion();
 });
