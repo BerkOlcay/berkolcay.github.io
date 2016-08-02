@@ -40,8 +40,7 @@ a:hover {
 	margin-bottom: 10px;
 }
 .mid {
-	position: relative;
-	/*position: absolute;*/
+	position: absolute;
 	clear: left;
 	margin-top: 50px;
 	margin: auto;
