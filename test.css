@@ -41,6 +41,7 @@ a:hover {
 }
 .mid {
 	position: relative;
+	clear: left, right;
 	margin-top: 50px;
 	width: 88%;
 	height: 400px;
